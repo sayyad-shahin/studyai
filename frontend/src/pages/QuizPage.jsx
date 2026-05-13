@@ -2,7 +2,7 @@ import { useState } from 'react'
 import { Link } from 'react-router-dom'
 import Navbar from '../components/common/Navbar'
 
-const API = 'http://127.0.0.1:5000'
+const API = 'https://studyai-backend-2ux9.onrender.com'
 const SUBJECTS    = ['Physics','Chemistry','Mathematics','Biology','History','Geography','Computer Science','Economics']
 const DIFFICULTIES = ['Easy','Medium','Hard','JEE Level','NEET Level']
 

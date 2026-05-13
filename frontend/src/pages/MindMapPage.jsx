@@ -2,7 +2,7 @@ import { useState } from 'react'
 import { Link } from 'react-router-dom'
 import Navbar from '../components/common/Navbar'
 
-const API = 'http://127.0.0.1:5000'
+const API = 'https://studyai-backend-2ux9.onrender.com'
 
 const PALETTE = ['#3b82f6','#7c3aed','#10b981','#f59e0b','#ef4444','#06b6d4','#ec4899','#84cc16']
 
