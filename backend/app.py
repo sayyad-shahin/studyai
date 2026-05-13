@@ -15,8 +15,7 @@ CORS(app, origins=[
     "http://127.0.0.1:5173",
     "http://localhost:5174",
     "http://127.0.0.1:5174",
-    "https://studyai-frontend.onrender.com",
-    "https://studyai-2ux9.onrender.com",
+    "https://studyai-frontend.onrender.com"
 ])
 
 logging.basicConfig(level=logging.INFO, format="%(levelname)s  %(message)s")
